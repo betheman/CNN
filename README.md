@@ -13,10 +13,15 @@ I have used keras,numpy,pandas,matplotlib for performing various tasks.
 
 Input:RGB Images
 Output:
+
 Number             Category
+
 0                  airplane
+
 1                  automobile
+
 2                  bird
+
 3                  cat
 4                  deer
 5                  dog
