@@ -3,6 +3,7 @@ Here I have used CNN to classify handwritten digits.
 I have used keras,numpy,pandas,matplotlib for performing various tasks.
 
 Input:Grey scale image
+
 Output: number b\w 0-9
 
 
@@ -23,9 +24,15 @@ Number             Category
 2                  bird
 
 3                  cat
+
 4                  deer
+
 5                  dog
+
 6                  frog
+
 7                  horse
+
 8                  ship
+
 9                  truck
